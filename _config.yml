@@ -1,10 +1,10 @@
 # Site settings
-title:  MyLive
+title:  FF小洋
 SEOTitle: MyLive
 header-img: img/home-bg-art.jpg
 email: 1515190821@qq.com
-description: "@MyLive,山高路远，看世界，也找自己！"
-keyword: "MyLive, @MyLive, MyLive的博客,MyLive Blog, 博客, 个人网站, 互联网"
+description: "@FF小洋,山高路远，看世界，也找自己！"
+keyword: "FF小洋, @FF小洋, FF小洋的博客,FF小洋 Blog, 博客, 个人网站, 互联网"
 url: "http://fywbe.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     FF小羊
+weibo_username:     FF小洋
 csdn_username:     迂 幵
 github_username:    fywbe
 jianshu_username:  远方__98
@@ -56,7 +56,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: MyLive
+duoshuo_username: FF小洋
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
