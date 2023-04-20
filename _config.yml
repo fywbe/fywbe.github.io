@@ -1,29 +1,27 @@
 # Site settings
-title: Wblearn Blog
-SEOTitle: Wblearn的博客 | Wblearn Blog
+title:  MyLive
+SEOTitle: MyLive
 header-img: img/home-bg-art.jpg
-email: 1275660493@qq.com
-description: "@wblearn,不要让任何事情成为你不去学习的理由！"
-keyword: "wblearn, @wblearn, wblearn的博客,wblearn Blog, 博客, 个人网站, 互联网"
-url: "http://wblearn.github.io/"              # your host, for absolute URL
+email: 1515190821@qq.com
+description: "@MyLive,山高路远，看世界，也找自己！"
+keyword: "MyLive, @MyLive, MyLive的博客,MyLive Blog, 博客, 个人网站, 互联网"
+url: "http://fywbe.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     wudalanggd
-csdn_username:     wudalang_gd
-github_username:    wblearn
-#twitter_username:  wblearn
-jianshu_username:  48599dc7ef1b
-sv_username: study-video
+weibo_username:     FF小羊
+csdn_username:     迂 幵
+github_username:    fywbe
+jianshu_username:  远方__98
 # linkedin_username:  firstname-lastname-idxxxx
 
 
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+# from 2023, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
 paginate: 10
